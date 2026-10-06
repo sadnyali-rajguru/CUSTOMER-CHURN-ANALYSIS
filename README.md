@@ -122,3 +122,6 @@ Monitor customers with higher monthly charges and provide suitable offers where 
 
 Use the Power BI dashboard to monitor churn and support customer retention planning.
 
+Screenshot:
+https://github.com/sadnyali-rajguru/CUSTOMER-CHURN-ANALYSIS/blob/main/Customer%20Churn%20Analytics%20Dashboard.png
+
